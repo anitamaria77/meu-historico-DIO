@@ -1,0 +1,4 @@
+git add . : Adicionar arquivo ao git 
+git push : sicronizar com github
+git status : ver status do arquivo
+git commit -m ""
